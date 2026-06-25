@@ -1,0 +1,81 @@
+# Core AI + LLM Frameworks
+openai
+langchain
+langchain-openai
+langchain-community
+langgraph
+pydantic
+python-dotenv
+
+# Runnables / LCEL Support
+langsmith
+
+# Web Search Tool (Tavily)
+tavily-python
+
+# Web Scraping Tool
+beautifulsoup4
+requests
+lxml
+html5lib
+
+# Async Support
+aiohttp
+httpx
+
+# Data Handling
+pandas
+numpy
+
+# Token Handling
+tiktoken
+
+# Environment & Config
+pyyaml
+
+# Logging & Utilities
+loguru
+rich
+
+# API Backend
+fastapi
+uvicorn
+
+# React Agent / Tool Calling Support
+duckduckgo-search
+
+# Memory / Vector Store (Optional but Recommended)
+faiss-cpu
+chromadb
+
+# Parsing & Validation
+jsonschema
+
+# Retry & Robustness
+tenacity
+
+# CLI / Developer Experience
+typer
+
+# Testing
+pytest
+
+# Optional: Jupyter Support
+jupyter
+
+# Optional: CORS Support for Frontend
+python-multipart
+
+# Optional: For Streaming Responses
+sse-starlette
+
+langchain
+langchain-openai
+langchain-community
+langgraph
+langchain-groq
+streamlit
+tavily-python
+beautifulsoup4
+python-dotenv
+requests
