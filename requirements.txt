@@ -79,3 +79,4 @@ tavily-python
 beautifulsoup4
 python-dotenv
 requests
+langchain-google-genai
